@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  IOS-Swift-UnitTest
+//  IOSSwiftUnitTest
 //
 //  Created by Pooya Hatami on 2018-05-21.
 //  Copyright © 2018 Pooya Hatami. All rights reserved.
