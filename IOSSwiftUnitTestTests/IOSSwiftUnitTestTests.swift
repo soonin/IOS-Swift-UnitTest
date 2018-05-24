@@ -9,7 +9,6 @@
 import XCTest
 @testable import IOSSwiftUnitTest
 
-
 class IOS_Swift_UnitTestTests: XCTestCase {
     
     func testselfFactorial() {
